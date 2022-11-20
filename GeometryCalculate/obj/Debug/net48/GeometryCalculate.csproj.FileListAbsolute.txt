@@ -1,0 +1,9 @@
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\bin\Debug\net48\GeometryCalculate.dll
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\bin\Debug\net48\GeometryCalculate.pdb
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\obj\Debug\net48\GeometryCalculate.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\obj\Debug\net48\GeometryCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\obj\Debug\net48\GeometryCalculate.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\obj\Debug\net48\GeometryCalculate.AssemblyInfo.cs
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\obj\Debug\net48\GeometryCalculate.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\obj\Debug\net48\GeometryCalculate.dll
+C:\Users\stefa\source\repos\GeometryCalculate\GeometryCalculate\obj\Debug\net48\GeometryCalculate.pdb

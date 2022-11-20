@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a83727ed-ad00-4740-ac12-a6c8833f6cf0": {
+      "ProjectGuid": "a83727ed-ad00-4740-ac12-a6c8833f6cf0",
+      "DisplayName": "GeometryCalculate",
+      "ColorIndex": 0
+    },
+    "96973a4c-5684-435f-98af-888d4a5db906": {
+      "ProjectGuid": "96973a4c-5684-435f-98af-888d4a5db906",
+      "DisplayName": "GeometryCalculate.Tests",
+      "ColorIndex": 1
+    },
+    "7eafd870-a6d9-4df7-9ab3-08256859ec4b": {
+      "ProjectGuid": "7eafd870-a6d9-4df7-9ab3-08256859ec4b",
+      "DisplayName": "GeometryCalculate.Tests",
+      "ColorIndex": 2
+    },
+    "709e9f79-1b21-4f65-bbe0-a41d48da87fb": {
+      "ProjectGuid": "709e9f79-1b21-4f65-bbe0-a41d48da87fb",
+      "DisplayName": "GeometryCalculate.Tests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "2eb94699-9928-4315-b40a-fda8d356e602": {
+      "ProjectGuid": "2eb94699-9928-4315-b40a-fda8d356e602",
+      "DisplayName": "Applying",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

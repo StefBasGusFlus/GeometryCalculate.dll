@@ -1,0 +1,11 @@
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\obj\Debug\Applying.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\obj\Debug\Applying.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\obj\Debug\Applying.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\bin\Debug\Applying.exe.config
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\bin\Debug\Applying.exe
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\bin\Debug\Applying.pdb
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\bin\Debug\GeometryCalculate.dll
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\bin\Debug\GeometryCalculate.pdb
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\obj\Debug\Applying.csproj.CopyComplete
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\obj\Debug\Applying.exe
+C:\Users\stefa\source\repos\GeometryCalculate\Applying\obj\Debug\Applying.pdb
