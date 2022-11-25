@@ -9,6 +9,6 @@ namespace GeometryCalculate.Interfaces
     // равносторонний треугольник
     public interface IRegularTriangular
     {
-        double RightSide { get; set; }
+        double RightSide { get; }
     }
 }

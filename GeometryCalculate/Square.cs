@@ -40,7 +40,7 @@ namespace GeometryCalculate
 
         public static double Find(ICircular figure)
         {
-            double result = Math.PI * Math.Pow(figure.radius, 2);
+            double result = Math.PI * Math.Pow(figure.Radius, 2);
 
             return result;
         }

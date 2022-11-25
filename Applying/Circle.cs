@@ -1,14 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using GeometryCalculate.Interfaces;
+﻿using GeometryCalculate.Interfaces;
 
 namespace Applying
 {
     public class Circle : ICircular
     {
-        public double radius { get; set; }
+        public double Radius { get; }
+
+        public Circle(double radius)
+        {
+            Radius = radius;   
+        }
     }
 }

@@ -10,10 +10,7 @@ namespace GeometryCalculate.Tests
         public void TriangleSquare_SIXreturned()
         {
             // arrange
-            Triangle tr = new Triangle();
-            tr.SideA = 5;
-            tr.SideB = 3;
-            tr.SideC = 4;
+            Triangle tr = new Triangle(5, 3, 4);
             double expected = 6;
 
             //act
@@ -26,10 +23,7 @@ namespace GeometryCalculate.Tests
         [Fact]
         public void TriangleSquare_ERRORreturned()
         {
-            Triangle tr = new Triangle();
-            tr.SideA = 5;
-            tr.SideB = 5;
-            tr.SideC = 3;
+            Triangle tr = new Triangle(5, 5, 3);
 
             var exception = Assert.Throws<ArgumentException>(() => Square.Find(tr));
             Assert.Equal("The triangle is not arbitrary", exception.Message);
@@ -38,9 +32,7 @@ namespace GeometryCalculate.Tests
         [Fact]
         public void RectangleSquare_FIFTEENreturned()
         {
-            Rectangle rect = new Rectangle();
-            rect.SideA = 5;
-            rect.SideB = 3;
+            Rectangle rect = new Rectangle(5, 3);
 
             double expected = 15;
 
@@ -48,7 +40,5 @@ namespace GeometryCalculate.Tests
 
             Assert.Equal(expected, result);
         }
-
-        
     }
 }
